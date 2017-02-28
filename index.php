@@ -7,9 +7,9 @@
 	<strong>Test</strong>
 
 	<ul>
-		<li>apple</li>
-		<li>oranges</li>
-		<li>pineapples</li>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
 	</ul>
 
 </body>
