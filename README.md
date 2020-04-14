@@ -1,2 +1,1 @@
-# login_pdo
-Pdo login basic
+# PHP-Project-1 - Basic Login System Using PDO
